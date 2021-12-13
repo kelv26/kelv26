@@ -27,3 +27,7 @@ My name is Kelv and I'm currently a Software Engineering Student. <br>I'm from M
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kelv26&repo=customevobot&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/kelv26/ParadisePlus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kelv26&repo=ParadisePlus&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
