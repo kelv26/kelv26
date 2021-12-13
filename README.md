@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 </a>
 
 
-<a href="https://github.com/kelv26/SimpleBookingSite ">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kelv26&repo=SimpleBookingSite &title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/kelv26/SimpleBookingSite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kelv26&repo=SimpleBookingSite&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
