@@ -1,5 +1,5 @@
 ## 👋 About Me
-My name is Kelv and I'm currently a Software Engineering Student. <br>I'm from Malaysia, currently studying at Asia Pacific University.<br>Reach me at my [Discord Server](https://discord.gg/zBnsXQNvpW).
+Hello, my name is Kelv and I'm currently a Software Engineering Student. <br>I'm a Chinese Malaysian, currently studying at Asia Pacific University.
 
 ## :computer: Technologies, Languages & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
