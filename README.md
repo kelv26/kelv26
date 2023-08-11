@@ -20,7 +20,7 @@ Hello, my name is Kelv, I was an ex-Software engineer student and I'm currently 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelv26&hide=c%23,HLSL,ShaderLab,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/kelv26/kelv26">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kelv26&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kelv's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kelv26&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kelv's GitHub Stats" />
 </a>
 
 
