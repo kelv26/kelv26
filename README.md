@@ -1,5 +1,5 @@
 ## 👋 About Me
-Hello, my name is Kelv, I was an ex-Software engineer student and I'm currently an Machine Learning Graduate. <br>I'm a Chinese Malaysian, recently graduated from Asia Pacific University.
+Hello, my name is Kelv, I'm a Software Engineer and AI Engineer. 
 
 ## :computer: Technologies, Languages & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
